@@ -72,7 +72,7 @@ SLA 多了 99.99% 的可用性承诺，还有每两周免费换一次 IP。适�
 
 ## 现在去买
 
-想好了就去看看：https://bandwagonhost.com/aff.php?aff=82279
+想好了就去看看：[现在的套餐和价格](https://bandwagonhost.com/aff.php?aff=82279)。
 
 第一次买，流程不复杂。选套餐、选机房、付款，十分钟的事。
 
