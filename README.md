@@ -32,7 +32,7 @@ SLA 多了 99.99% 的可用性承诺，还有每两周免费换一次 IP。适�
 
 ## 全部套餐价格
 
-| 套餐 | 内存 | 硬盘 | 月流量 | 带宽 | 价格 | 购买 |
+| 套餐名称 | 内存 | 硬盘 | 月流量 | 带宽 | 价格 | 购买链接 |
 | --- | --- | --- | --- | --- | --- | --- |
 | KVM 20G | 1 GB | 20 GB SSD | 1 TB | 1 Gbps | $49.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=44) |
 | KVM 40G | 2 GB | 40 GB SSD | 2 TB | 1 Gbps | $52.99/半年，$99.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=45) |
