@@ -32,7 +32,7 @@ RackNerd 这类商家促销时更便宜，一年十几美元也能买到。缺�
 
 放长期用的小站，我用搬瓦工的 Basic。不算最便宜，但一年五十美元，省下来的折腾时间比省下来的钱值。
 
-想看看现在卖什么：[搬瓦工官网](https://bandwagonhost.com/aff.php?aff=82279)。
+想看看现在卖什么 👉 [搬瓦工官网](https://bandwagonhost.com/aff.php?aff=82279)。
 
 ---
 

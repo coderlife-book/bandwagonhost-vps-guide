@@ -28,7 +28,7 @@ CN2 是电信的，联通和移动各有各的线路。所以「有 CN2 GIA」�
 
 买之前先自己试。找官方给的测试 IP，用平时用的网络 ping 一下，晚上再 ping 一次。看数字不如实际打开一个网页，感觉更准。
 
-想直接看套餐：[搬瓦工官网](https://bandwagonhost.com/aff.php?aff=82279)。
+想直接看套餐 👉 [搬瓦工官网](https://bandwagonhost.com/aff.php?aff=82279)。
 
 ---
 

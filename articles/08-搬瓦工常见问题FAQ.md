@@ -40,7 +40,7 @@
 
 ## 想买了
 
-[去官网看看现在的套餐](https://bandwagonhost.com/aff.php?aff=82279)
+👉 [去官网看看现在的套餐](https://bandwagonhost.com/aff.php?aff=82279)
 
 ---
 
