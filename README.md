@@ -38,19 +38,21 @@ SLA 多了 99.99% 的可用性承诺，还有每两周免费换一次 IP。适�
 
 | 套餐名称 | 内存 | 硬盘 | 月流量 | 带宽 | 价格 | 购买链接 |
 | --- | --- | --- | --- | --- | --- | --- |
-| KVM 20G | 1 GB | 20 GB SSD | 1 TB | 1 Gbps | $49.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=44) |
-| KVM 40G | 2 GB | 40 GB SSD | 2 TB | 1 Gbps | $52.99/半年，$99.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=45) |
-| KVM 80G | 4 GB | 80 GB SSD | 3 TB | 1 Gbps | $19.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=46) |
-| KVM 160G | 8 GB | 160 GB SSD | 4 TB | 1 Gbps | $39.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=47) |
-| KVM 320G | 16 GB | 320 GB SSD | 5 TB | 1 Gbps | $79.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=48) |
-| CN2 GIA 20G | 1 GB | 20 GB SSD | 1 TB | 2.5 Gbps | $49.99/季，$169.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=87) |
-| CN2 GIA 40G | 2 GB | 40 GB SSD | 2 TB | 2.5 Gbps | $89.99/季，$299.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=88) |
-| CN2 GIA 80G | 4 GB | 80 GB SSD | 3 TB | 2.5 Gbps | $56.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=89) |
-| 大阪 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1.5 Gbps | $49.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=134) |
-| 香港 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1 Gbps | $89.99/月，$899.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=95) |
-| 香港 CN2 GIA 80G | 4 GB | 80 GB SSD | 1 TB | 1 Gbps | $155.99/月，$1559.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=96) |
-| 东京 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1.2 Gbps | $89.99/月，$899.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=108) |
-| SLA 20G（DC5） | 1 GB | 20 GB NVMe | 1 TB | 2.5 Gbps | $65.89/季，$239.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=164) |
+| KVM 20G | 1 GB | 20 GB SSD | 1 TB | 1 Gbps（125 MB/s） | $49.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=44) |
+| KVM 40G | 2 GB | 40 GB SSD | 2 TB | 1 Gbps（125 MB/s） | $52.99/半年，$99.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=45) |
+| KVM 80G | 4 GB | 80 GB SSD | 3 TB | 1 Gbps（125 MB/s） | $19.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=46) |
+| KVM 160G | 8 GB | 160 GB SSD | 4 TB | 1 Gbps（125 MB/s） | $39.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=47) |
+| KVM 320G | 16 GB | 320 GB SSD | 5 TB | 1 Gbps（125 MB/s） | $79.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=48) |
+| CN2 GIA 20G | 1 GB | 20 GB SSD | 1 TB | 2.5 Gbps（312.5 MB/s） | $49.99/季，$169.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=87) |
+| CN2 GIA 40G | 2 GB | 40 GB SSD | 2 TB | 2.5 Gbps（312.5 MB/s） | $89.99/季，$299.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=88) |
+| CN2 GIA 80G | 4 GB | 80 GB SSD | 3 TB | 2.5 Gbps（312.5 MB/s） | $56.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=89) |
+| 大阪 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1.5 Gbps（187.5 MB/s） | $49.99/月 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=134) |
+| 香港 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1 Gbps（125 MB/s） | $89.99/月，$899.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=95) |
+| 香港 CN2 GIA 80G | 4 GB | 80 GB SSD | 1 TB | 1 Gbps（125 MB/s） | $155.99/月，$1559.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=96) |
+| 东京 CN2 GIA 40G | 2 GB | 40 GB SSD | 500 GB | 1.2 Gbps（150 MB/s） | $89.99/月，$899.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=108) |
+| SLA 20G（DC5） | 1 GB | 20 GB NVMe | 1 TB | 2.5 Gbps（312.5 MB/s） | $65.89/季，$239.99/年 | [立即购买](https://bandwagonhost.com/aff.php?aff=82279&pid=164) |
+
+带宽括号里是换算后的理论速度，实际下载速度还要看线路和使用情况。
 
 价格是官网现在的标价，活动的时候会低一点，以结账页为准。限量版套餐库存不稳定，没列进来，需要的话直接去官网看。
 
