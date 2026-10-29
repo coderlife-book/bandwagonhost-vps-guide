@@ -42,7 +42,9 @@ RackNerd 促销时更便宜，一年十几美元。适合预算卡得很死、�
 
 短期看计费，长期看总价，国内访问看线路。搬瓦工在这三件事里占了后两件。
 
-符合你的用途，就去看看 👉 [官网在这](https://bandwagonhost.com/aff.php?aff=82279)。
+符合你的用途，就去看看。
+
+👉 [看看搬瓦工现在的套餐](https://bandwagonhost.com/aff.php?aff=82279)
 
 ---
 

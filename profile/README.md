@@ -44,7 +44,7 @@ SSH 连不上，Ping 全丢包，网站打不开。可 KiwiVM 后台显示机器
 
 反复被封，说明该换套餐了，不是该换 IP 了。
 
-搬瓦工官网 👉 [看看现在的套餐](https://bandwagonhost.com/aff.php?aff=82279)。
+👉 [看看 CN2 GIA 套餐](https://bandwagonhost.com/aff.php?aff=82279)
 
 ---
 
