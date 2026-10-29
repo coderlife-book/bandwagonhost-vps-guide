@@ -1,0 +1,11 @@
+.DS_Store
+.preview/
+images/.check/
+__pycache__/
+*.pyc
+
+# 内部资料，不进公开仓库
+DEPLOYMENT.md
+SOURCES.md
+data/
+scripts/
