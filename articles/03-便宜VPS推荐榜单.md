@@ -32,9 +32,9 @@ RackNerd 这类商家促销时更便宜，一年十几美元也能买到。缺�
 
 放长期用的小站，我用搬瓦工的 Basic。不算最便宜，但一年五十美元，省下来的折腾时间比省下来的钱值。
 
-想看看现在卖什么。
+打算放个长期用的小站，就从这款看起。
 
-👉 [看看入门款多少钱](https://bandwagonhost.com/aff.php?aff=82279)
+👉 [看看 KVM 20G 多少钱](https://bandwagonhost.com/aff.php?aff=82279&pid=44)
 
 ---
 
